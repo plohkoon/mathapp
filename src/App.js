@@ -19,6 +19,11 @@ class App extends Component {
           >
             Learn React
           </a>
+          <pre>
+            <code>
+              {"let x=5;\nlet y=7;"}
+            </code>
+          </pre>
         </header>
       </div>
     );
