@@ -1,3 +1,7 @@
+###Description
+
+A react app for pages to present my solution to challenges presented at https://projecteuler.net including what the result of the calculation was and what the code is for the solution
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
